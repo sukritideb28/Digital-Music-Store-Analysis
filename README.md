@@ -1,7 +1,11 @@
 # Digital-Music-Store-Analysis
+
+##Project Objective 
  Analyze the operations of a digital music store to uncover business insights related to customer behavior, sales trends, and product popularity.
 
 
+ -- Problem Statements--
+ 
 --Q1-- Who is the senior most employee based on job title 
  SELECT * FROM EMPLOYEE$;
 
