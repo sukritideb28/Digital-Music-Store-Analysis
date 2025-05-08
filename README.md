@@ -4,6 +4,10 @@
  Analyze the operations of a digital music store to uncover business insights related to customer behavior, sales trends, and product popularity.
 
 
+--Data Used--
+ - <a href=" https://github.com/sukritideb28/Digital-Music-Store-Analysis/commit/010bed0644e8e49d5d1934966148e924db6b76ed">Dataset</a>
+
+
  -- Problem Statements--
  
 --Q1-- Who is the senior most employee based on job title 
